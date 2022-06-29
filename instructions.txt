@@ -1,0 +1,23 @@
+//1. Initialize npm and install dependencies
+// express dotenv, cors mongodb ejs nodeon (--save-dev)
+
+//2. require dependencies in server.js (const requires)
+
+//3. declare variables
+
+//4. connect to Mongo DB -add connection string to .env file
+
+//5. create port
+
+//6. set middleware
+
+//7. create git ignore
+
+//8. create puiblic and views folder add main js and style css to public and index .ejs to views 
+
+//9. from root ,init local git repo and commit 
+
+//10. create heroku repo
+
+// heroku login 
+//heroku create 
