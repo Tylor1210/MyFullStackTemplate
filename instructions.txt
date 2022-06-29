@@ -7,17 +7,21 @@
 
 //4. connect to Mongo DB -add connection string to .env file
 
-//5. create port
+//5. add .env file to gitignore
 
-//6. set middleware
+//6. create port
 
-//7. create git ignore
+//------Test Mongo and Port connection
 
-//8. create puiblic and views folder add main js and style css to public and index .ejs to views 
+//7. set middleware
 
-//9. from root ,init local git repo and commit 
+//8. create git ignore
 
-//10. create heroku repo
+//9. create puiblic and views folder add main js and style css to public and index .ejs to views 
+
+//10. from root ,init local git repo and commit 
+
+//11. create heroku repo
 
 // heroku login 
 //heroku create 
